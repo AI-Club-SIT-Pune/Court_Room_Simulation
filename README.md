@@ -7,7 +7,7 @@ This project simulates legal battles by pitting AI agents against each other in 
 
 ## Author
 
-#Advik
+**Advik**
 ### Key Features  
 - **Automated AI Agents**  
   These agents are designed to perform specific legal tasks autonomously, such as evidence gathering, legal research, and argument construction.  
