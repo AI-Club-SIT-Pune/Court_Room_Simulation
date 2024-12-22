@@ -5,6 +5,9 @@ Imagine AI agents acting as lawyers, equipped with the ability to research legal
 ## Overview  
 This project simulates legal battles by pitting AI agents against each other in a virtual courtroom. Using **Retrieval Augmented Generation (RAG)** and reasoning capabilities, these agents access relevant legal documents, extract key information, and formulate arguments for both the prosecution and defense.  
 
+## Author
+
+#Advik
 ### Key Features  
 - **Automated AI Agents**  
   These agents are designed to perform specific legal tasks autonomously, such as evidence gathering, legal research, and argument construction.  
